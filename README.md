@@ -1,2 +1,2 @@
-# controle
-controle continu
+# controle-continue
+avoir unr bonne note 
